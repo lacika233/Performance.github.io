@@ -1,4 +1,3 @@
-# Performance.github.io
 <html lang="hu">
 <head>
     <meta charset="UTF-8">
